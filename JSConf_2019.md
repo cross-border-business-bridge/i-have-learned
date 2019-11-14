@@ -7,8 +7,7 @@
     + 接口定义清晰明了。  
     + TypeScript最终会转化成Javascript, 故JS生态可重用.
 
-2. 如何大规模进行代码迁移，比如ES5迁移到ES6,7,8 或者 CMD to ES6 import?  
-    运用Abstract grammar tree, 构建工具自动进行代码翻译转换，参考开源工具 codeMods. 
+2. 如何大规模进行代码迁移，比如ES5迁移到ES6,7,8 或者 CMD to ES6 import?  运用Abstract grammar tree, 构建工具自动进行代码翻译转换，参考开源工具 codeMods. 
   
 3. nextJS 作者如何使用TypeScript 的反射机制，较少代码量。 
 
