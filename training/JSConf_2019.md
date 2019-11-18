@@ -28,7 +28,7 @@
 + https://github.com/Shopee/shopee-react-knowledgeable 
 
 ## Good points 
-1. Knowledge and skill can be learned everywhere, but the meeting is an convenient place where you can chat, share with each other, why and how then benefit for your own career. 
+1. Knowledge and skill can be learned everywhere, but the meeting is a convenient place where you can chat, share with each other, why and how then benefit for your own career. 
 
 2. Choose the right skill for your team, such as server-less solution needs your teammates have strong technology background.
 
