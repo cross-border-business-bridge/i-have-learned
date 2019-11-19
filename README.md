@@ -1,6 +1,10 @@
 
 # What I have learned  
 
+## Disclaimer
+This disclaimer informs readers that the views, thoughts, and opinions expressed in the text belong solely to the author, and not necessarily to the author’s employer, organization, committee or other group or individual.
+
+## Motivation 
 Inspired by JSConf speaker Gao (https://github.com/wgao19), document writing is an interesting way to clean up your thoughts. 
 
 1. Anyway you need to upgrade yourself to the next level, whether for your career building or personal interest. 
@@ -12,8 +16,8 @@ Inspired by JSConf speaker Gao (https://github.com/wgao19), document writing is 
 4. Use English as much as possible.
 
 
-## Disclaimer
-This disclaimer informs readers that the views, thoughts, and opinions expressed in the text belong solely to the author, and not necessarily to the author’s employer, organization, committee or other group or individual.
+## References  
+1. https://markdown-it.github.io/
 
 
 
