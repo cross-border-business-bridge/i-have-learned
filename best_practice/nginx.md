@@ -7,6 +7,7 @@ https://docs.nginx.com/nginx/admin-guide/load-balancer/http-health-check/
 
 ### config 
 1. root path, sub path append 
++ https://www.techcoil.com/blog/understanding-the-difference-between-the-root-and-alias-directives-in-nginx/
 
 2. alias, find desired resource in target path. 
 
@@ -45,6 +46,6 @@ server {
   
 
 ### Rewrite rule 
-
++ https://www.nginx.com/blog/creating-nginx-rewrite-rules/
   
  
