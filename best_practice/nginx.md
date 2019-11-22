@@ -23,7 +23,7 @@ server {
             proxy_cache            my_cache;
             proxy_cache_valid      200  6h;
             proxy_cache_use_stale  error timeout invalid_header updating http_500 http_502 http_503 http_504;
-            proxy_cache_key    $uri$is_args$args;
+            proxy_cache_key        $uri$is_args$args;
      
             proxy_cache_revalidate on;
       #      proxy_cache_min_uses 3;
@@ -43,8 +43,11 @@ server {
   
 + 无缝升级为nginx添加ngx_cache_purge模块  
   + https://www.feiqy.com/install-ngx_cache_purge-module/
-  
-
+    ```bash
+    CentOS 7 环境，make upgrade行不得 启动命令 systemctl start nginx 不工作，make install 到另外一个目录可行。
+    ```
+    
+ 
 ### Rewrite rule 
 + https://www.nginx.com/blog/creating-nginx-rewrite-rules/
   
