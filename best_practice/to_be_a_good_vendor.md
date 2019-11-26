@@ -13,3 +13,7 @@
     + Let your brain calm down, "Excuse me, I go to the rest room for a while"
 
 4. As project manager, you need to balance the interests on both sides, a challenge topic welcome all you guys' discussion.  
+
+5. When invited to the company party, remember to be polite, call the host at first, try to appreciate and explain the reason why you have to leave earlier. 
+
+6. Please do prepare work, remember local etiquette and common vocabulary (such as how are you), it will deep your connection with the client.  
