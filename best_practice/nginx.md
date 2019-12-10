@@ -46,7 +46,8 @@ server {
     ```bash
     CentOS 7 环境，make upgrade行不得 启动命令 systemctl start nginx 不工作，make install 到另外一个目录可行。
     ```
-    
+
+3. Dues to cache layer exist, remember any operation later on must do purge at first.     
  
 ### Rewrite rule 
 + https://www.nginx.com/blog/creating-nginx-rewrite-rules/
