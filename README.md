@@ -1,6 +1,11 @@
 
 # What I have learned  
 
+## Why write it 
+1. I hope these rules will benefit to both you and me. 
+2. Review these rules constantly.  
+
+
 ## Disclaimer
 This disclaimer informs readers that the views, thoughts, and opinions expressed in the text belong solely to the author, and not necessarily to the author’s employer, organization, committee or other group or individual.
 
