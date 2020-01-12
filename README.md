@@ -24,12 +24,3 @@ Inspired by JSConf speaker Gao (https://github.com/wgao19), document writing is 
 ## References  
 1. https://markdown-it.github.io/
 
-
-
-
-
-
-
-
-
-
