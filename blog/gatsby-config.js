@@ -1,11 +1,13 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
-    author: `Kyle Mathews`,
-    description: `A starter blog demonstrating what Gatsby can do.`,
+    title: `Leo's blog`,
+    author: `Jianhua Yu (Leo)`,
+    description: `Best practices summary on career building and working life`,
     siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: '',
+      linkedin: 'https://www.linkedin.com/in/yujianhua/',
+      email: `cross_border_leo@126.com`,
     },
   },
   plugins: [
