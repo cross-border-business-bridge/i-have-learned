@@ -5,8 +5,19 @@ description: "Explore your potential business"
 ---
 
 ## Business exploration 
-1. Explore client's needs by communication, ask question in guidance. 
+### Know your customer 
++ Explore client's needs by communication, ask question in guidance
++ What's his trouble or headache, how does your product or service support
++ design your questions, explore on both man and their business.
 
-2. Pre sale, show how about our products can solve your business headaches.
- 
-3. Know your customers, design your questions, explore on both man and their business.
+### Pre sale
++ Show how about our products can solve your business headaches
++ Be confident to the queries, at the same time keep honest regarding the product's quality.   
+
+### Make a deal   
++ Not every pre-sale can generate a deal finally, keep patient, contact with your counter-part continually for possible business break-through. 
+
++ If failed this time, please still keep patient, wait the 2nd or 3rd deal.  
+   
+
+

@@ -5,8 +5,8 @@ module.exports = {
     description: `Best practices summary on career building and working life`,
     siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
     social: {
-      twitter: '',
-      linkedin: 'https://www.linkedin.com/in/yujianhua/',
+      twitter: 'yujianhua',
+      linkedin: 'yujianhua',
       email: `cross_border_leo@126.com`,
     },
   },
