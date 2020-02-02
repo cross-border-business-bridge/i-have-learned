@@ -26,7 +26,8 @@ const Bio = () => {
           author
           social {
             twitter,
-            linkedin
+            linkedin,
+            github
           }
         }
       }
@@ -36,8 +37,9 @@ const Bio = () => {
     const {
         author,
         social: {
-            twitter,
-            linkedin
+            // twitter,
+            linkedin,
+            github
         }
     } = data.site.siteMetadata;
 
@@ -68,7 +70,9 @@ const Bio = () => {
                 Written by <strong>{author}</strong> who lives and works in Shanghai, China to share his business view,
                 life-style and so forth.
                 <br/>
-                You can contact with me via <a href={`https://www.linkedin.com/in/${linkedin}`}>LinkedIn</a>
+                You can contact with me via <a href={`https://www.linkedin.com/in/${linkedin}`}>LinkedIn</a>  or &nbsp;
+                <a href={`https://github.com/${github}`}>github</a>
+
             </p>
 
             {/*<p>*/}

@@ -8,6 +8,7 @@ module.exports = {
       twitter: 'yujianhua',
       linkedin: 'yujianhua',
       email: `cross_border_leo@126.com`,
+      github: 'cross-border-business-bridge',
     },
   },
   plugins: [
