@@ -1,3 +1,18 @@
+---
+title: To be good partner 
+date: "2019-11-20T18:12:03.284Z"
+description: "To be good partner"
+---
+
+# Business sense and roles best practice  
+
+## Business sense
+
+
+
+## Business roles
+
+
 
 ## How to be a good vendor? 
 1. Get things done on business side, beat your client's expection is a plus. 
@@ -13,3 +28,10 @@
     + Let your brain calm down, "Excuse me, I go to the rest room for a while"
 
 4. As project manager, you need to balance the interests on both sides, a challenge topic welcome all you guys' discussion.  
+
+5. When invited to the company party, remember to be polite, call the host at first, try to appreciate and explain the reason why you have to leave earlier. 
+
+6. Please do prepare work, remember local etiquette and common vocabulary (such as how are you), it will deep your connection with the client.  
+
+
+## As contract party B, how to get your job done? 

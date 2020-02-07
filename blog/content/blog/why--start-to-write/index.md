@@ -1,9 +1,15 @@
+---
+title: What I have learned 
+date: "2020-02-01T18:17:01.114Z"
+description: "What I have learned"
+---
 
 # What I have learned  
 
-## Why write it 
-1. I hope these rules will benefit to both you and me. 
-2. Review these rules constantly.  
+## Why write it
+1. Mainly record my best practices which I have learnt, I hope these rules will benefit to both you and me.  
+
+2. Review these rules constantly to avoid the same mistake again. 
 
 
 ## Disclaimer
@@ -19,8 +25,3 @@ Inspired by JSConf speaker Gao (https://github.com/wgao19), document writing is 
 3. Share your best practice will make your strong. 
 
 4. Use English as much as possible.
-
-
-## References  
-1. https://markdown-it.github.io/
-
