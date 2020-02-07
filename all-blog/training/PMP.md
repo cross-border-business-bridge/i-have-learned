@@ -20,11 +20,4 @@
 
 2. Once conflict occurs in the team, please show your balance skill, try to find compromise method to make an agreement. 
 
-3.   
-
-
-
-
-
-
-
+3. 
