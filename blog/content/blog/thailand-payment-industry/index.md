@@ -80,18 +80,15 @@ b) Benefits of the Thai Standard Chip Card Operation Scheme or PromptCard
  ----
  
 ### 2. National registered banks 
-1. All payment channels and equipments support PromptPay, such as   
-2. 
+1. All payment channels and equipments support PromptPay   
 
 ### 3. International card schemes 
+TPN (Thailand Payment Network)
+[UnionPay shows two new payment methods at FinTech fair](https://www.nationthailand.com/business/30373470)
  
 ### 4. Third Party payment giants 
 
 ### 5. Other FinTech companies   
  
- 
-### 2. TPN (Thailand Payment Network)
 
-
-#
 
