@@ -51,5 +51,5 @@ server {
  
 ### Rewrite rule 
 + https://www.nginx.com/blog/creating-nginx-rewrite-rules/
-  
+  may cause stale status   
  
