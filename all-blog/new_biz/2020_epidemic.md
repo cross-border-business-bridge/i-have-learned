@@ -4,6 +4,7 @@
 ### Interview with ZhuMin 
 #### Interviewee Introduction  
 ZhuMin - National financial institution college dean (Tsinghua University)
+BaiYanSong - CCTV host
 
 #### Opinions 
 1. New infrastructure investment (worth 7 trillion YUAN) will be based on science, technology and healthy care related, look forward to the future, prepare for the future;
@@ -25,5 +26,4 @@ ZhuMin - National financial institution college dean (Tsinghua University)
     + Neither be too positive or negative     
     + Control the time and pace  
  
-     
- 
+    
