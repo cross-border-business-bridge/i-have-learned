@@ -1,4 +1,6 @@
 
+# upstudy 
+
 ## 【联连看】2020市场破局与投资趋势
 
 ### Speaker 
@@ -25,3 +27,23 @@ Steve Schwarzman (苏世民)
 ### Summary
 1. Billionaire always success with their own best practices, it is difficult to get definite answer, but their thoughts are valuable.
 2. Let time to prove the business is valuable and profitable when you apply for the investment.  
+
+---
+
+## 【金融科技】区块链对支付清算体系的影响 
+
+### Speaker 
+邹传伟 （万象首席经济学家）
+
+### Topics 
+1. DC/EP (PBOC digital currency) 
+   1. Anyway the economy will recover and back to normal, sooner than later.  
+   2. Seek opportunity during risk period.
+   3. Government intervention for the stock market, Fed liquidity penetrate give investors confidence, which is the most valuable factor for recovery.     
+  
+2. Libra 
+
+
+
+### Summary
+
