@@ -4,6 +4,7 @@
 ### Interview with ZhuMin 
 #### Interviewee Introduction  
 ZhuMin - National financial institution college dean (Tsinghua University)
+
 BaiYanSong - CCTV host
 
 #### Opinions 
@@ -12,7 +13,7 @@ BaiYanSong - CCTV host
 2. World wide protectionlism trend how to affect global trade and business  
 
 #### Learn & Analysis 
-1. People are all connected by Internet, keep seeking opportunity. 
+1. People are all connected by internet, keep seeking opportunity. 
 
 2. How to be a good host during interview
     + Question is short 

@@ -11,8 +11,8 @@ description: "Explore your potential business"
 + design your questions, explore on both man and their business.
 
 ### Pre sale
-+ Show how about our products can solve your business headaches
-+ Be confident to the queries, at the same time keep honest regarding the product's quality.   
++ Show how about our products can solve their business headaches
++ Be confident to the queries, also be honest regarding the product's quality.   
 
 ### Make a deal   
 + Not every pre-sale can generate a deal finally, keep patient, contact with your counter-part continually for possible business break-through. 
