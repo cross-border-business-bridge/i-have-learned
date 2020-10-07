@@ -37,4 +37,4 @@ description: "Skills on how to be a good listener"
 
 2. Choose the right skill for your team, such as server-less solution needs your teammates have strong technology background.
 
-3. English speaking is highly important, of course it will be much better if you can master both English and Chinese. 
+3. English speaking is highly important, Much better if you can master both English and Chinese. 
